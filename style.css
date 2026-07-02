@@ -641,8 +641,8 @@ html[lang="en"] .profile-bio p:first-child {
   width: 100%;
   min-height: 100vh;
   display: flex;
-  justify-content: center;
-  padding: 124px 56px 100px var(--content-pad);
+  justify-content: flex-start;
+  padding: 124px 56px 100px var(--side-pad);
 }
 
 @media (max-width: 1400px) {
