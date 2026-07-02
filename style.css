@@ -104,6 +104,7 @@ li {
 
 .greeting {
   display: inline-block;
+  margin-left: -1px;
   font-size: calc(var(--name-size) * 0.78);
   font-weight: 400;
   color: #2b2f33;
