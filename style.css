@@ -658,6 +658,10 @@ html[lang="en"] .profile-bio p:first-child {
   text-align: left;
 }
 
+.cwd-back {
+  text-align: center;
+}
+
 .cwd-date {
   font-size: 0.8rem;
   letter-spacing: 0.05em;
