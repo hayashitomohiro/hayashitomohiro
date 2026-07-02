@@ -1321,22 +1321,3 @@ body:has(.hero) .copyright {
 /* ============================================
    Bottom quick-links on detail pages
 ============================================ */
-.cwd-quicklinks {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 16px;
-  margin-top: 40px;
-  font-size: 0.8rem;
-  letter-spacing: 0.05em;
-}
-
-.cwd-quicklinks a {
-  text-decoration: underline;
-  text-underline-offset: 3px;
-  transition: opacity 0.25s ease;
-}
-
-.cwd-quicklinks a:hover {
-  opacity: 0.7;
-}
