@@ -1274,16 +1274,16 @@ body:has(.hero) .copyright {
    work description starts right at the top
 ============================================ */
 @media (max-width: 700px) {
-  .page-layout--artwork .sidebar {
+  .page-layout--artwork .main-nav {
     display: none;
   }
 
   .page-layout--artwork .cwd-main {
-    padding-top: 32px;
+    padding-top: 20px;
   }
 
   .page-layout--artwork .cv-main {
-    padding-top: 32px;
+    padding-top: 20px;
   }
 }
 
@@ -1315,5 +1315,28 @@ body:has(.hero) .copyright {
 
 .cwd-prev a:hover,
 .cwd-next a:hover {
+  opacity: 0.7;
+}
+
+/* ============================================
+   Bottom quick-links on detail pages
+============================================ */
+.cwd-quicklinks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 40px;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+}
+
+.cwd-quicklinks a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: opacity 0.25s ease;
+}
+
+.cwd-quicklinks a:hover {
   opacity: 0.7;
 }
