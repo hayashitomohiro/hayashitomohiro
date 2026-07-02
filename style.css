@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  font-family: "游ゴシック体", "Yu Gothic", YuGothic, "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  font-family: "Inter", "游ゴシック体", "Yu Gothic", YuGothic, "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   color: #2b2f33;
   background-color: #f4f4f2;
   line-height: 1.7;
@@ -25,10 +25,6 @@ body {
 a {
   color: inherit;
   text-decoration: none;
-}
-
-html[lang="en"] body {
-  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
 }
 
 ul {
@@ -79,14 +75,10 @@ li {
 .site-name {
   display: inline-block;
   font-size: var(--name-size);
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: 0.03em;
   color: #2b2f33;
   transition: opacity 0.25s ease;
-}
-
-html[lang="en"] .site-name {
-  font-weight: 400;
 }
 
 .site-name:hover,
@@ -295,13 +287,9 @@ html[lang="en"] .site-name {
   justify-content: space-between;
   align-items: baseline;
   margin-bottom: 22px;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 1rem;
   letter-spacing: 0.03em;
-}
-
-html[lang="en"] .profile-name-row {
-  font-weight: 400;
 }
 
 .profile-bio p {
@@ -502,6 +490,10 @@ html[lang="en"] .profile-bio p:first-child {
 
   .cv-title {
     margin-bottom: 40px;
+  }
+
+  .cv-list {
+    gap: 22px;
   }
 }
 
@@ -770,7 +762,7 @@ html[lang="en"] .profile-bio p:first-child {
 }
 
 .ex-header-row .ex-location {
-  flex: 0 0 120px;
+  flex: 0 0 260px;
   text-align: right;
 }
 
@@ -809,7 +801,7 @@ html[lang="en"] .profile-bio p:first-child {
 }
 
 .ex-location {
-  flex: 0 0 120px;
+  flex: 0 0 260px;
   text-align: right;
   color: #2b2f33;
 }
@@ -880,7 +872,7 @@ html[lang="en"] .profile-bio p:first-child {
 }
 
 .pf-header-row .pf-location {
-  flex: 0 0 120px;
+  flex: 0 0 260px;
   text-align: right;
 }
 
@@ -919,7 +911,7 @@ html[lang="en"] .profile-bio p:first-child {
 }
 
 .pf-location {
-  flex: 0 0 120px;
+  flex: 0 0 260px;
   text-align: right;
   color: #2b2f33;
 }
@@ -1257,13 +1249,57 @@ body:has(.hero) .copyright {
 
 @media (max-width: 640px) {
   .copyright {
-    bottom: 12px;
-    right: 16px;
-    font-size: 0.6rem;
-  }
-
-  .copyright--inline {
+    position: relative;
     bottom: auto;
     right: auto;
+    text-align: right;
+    padding: 24px var(--side-pad) 24px;
+    font-size: 0.6rem;
   }
+}
+
+/* ============================================
+   Exhibition / Performance detail pages:
+   hide the sidebar entirely on mobile so the
+   work description starts right at the top
+============================================ */
+@media (max-width: 700px) {
+  .page-layout--artwork .sidebar {
+    display: none;
+  }
+
+  .page-layout--artwork .cwd-main {
+    padding-top: 32px;
+  }
+}
+
+/* ============================================
+   Prev / next navigation between artwork pages
+============================================ */
+.cwd-siblings {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 24px;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+}
+
+.cwd-prev {
+  text-align: left;
+}
+
+.cwd-next {
+  text-align: right;
+}
+
+.cwd-prev a,
+.cwd-next a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: opacity 0.25s ease;
+}
+
+.cwd-prev a:hover,
+.cwd-next a:hover {
+  opacity: 0.7;
 }
