@@ -1264,12 +1264,15 @@ body:has(.hero) .copyright {
 
 @media (max-width: 640px) {
   .copyright {
+    font-size: 0.6rem;
+  }
+
+  .copyright--inline {
     position: relative;
     bottom: auto;
     right: auto;
     text-align: right;
     padding: 24px var(--side-pad) 24px;
-    font-size: 0.6rem;
   }
 }
 
