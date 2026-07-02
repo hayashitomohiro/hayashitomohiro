@@ -678,6 +678,7 @@ html[lang="en"] .profile-bio p:first-child {
   letter-spacing: 0.03em;
   opacity: 0.75;
   margin-bottom: 80px;
+  word-break: keep-all;
 }
 
 .cwd-placeholder {
@@ -804,6 +805,7 @@ html[lang="en"] .profile-bio p:first-child {
   flex: 0 0 260px;
   text-align: right;
   color: #2b2f33;
+  word-break: keep-all;
 }
 
 @media (max-width: 1024px) {
@@ -914,6 +916,7 @@ html[lang="en"] .profile-bio p:first-child {
   flex: 0 0 260px;
   text-align: right;
   color: #2b2f33;
+  word-break: keep-all;
 }
 
 @media (max-width: 1024px) {
@@ -1085,7 +1088,7 @@ span.mu-row:hover {
 
 .mu-section-title {
   font-size: 1rem;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: 0.03em;
   margin-bottom: 24px;
 }
@@ -1216,6 +1219,13 @@ body:has(.hero) .lang-switch span {
     top: 32px;
     right: 20px;
   }
+
+  body:has(.hero) .lang-switch,
+  body:has(.hero) .lang-switch a,
+  body:has(.hero) .lang-switch span {
+    color: #2b2f33;
+    text-shadow: none;
+  }
 }
 
 /* ============================================
@@ -1269,6 +1279,10 @@ body:has(.hero) .copyright {
   }
 
   .page-layout--artwork .cwd-main {
+    padding-top: 32px;
+  }
+
+  .page-layout--artwork .cv-main {
     padding-top: 32px;
   }
 }
