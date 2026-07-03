@@ -1341,3 +1341,15 @@ body:has(.hero) .copyright {
   letter-spacing: 0.02em;
   margin-bottom: 48px;
 }
+
+/* ============================================
+   Intro text: slightly smaller on mobile
+============================================ */
+@media (max-width: 640px) {
+  .cw-intro,
+  .ex-intro,
+  .pf-intro,
+  .mu-intro {
+    font-size: 0.78rem;
+  }
+}
