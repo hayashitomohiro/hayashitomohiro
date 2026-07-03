@@ -1375,6 +1375,41 @@ body:has(.hero) .copyright {
   border: 0;
 }
 
+.cwd-image-wrap {
+  width: 100%;
+  max-width: 640px;
+  margin: 32px 0;
+}
+
+.cwd-image-wrap img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.cwd-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+
+  width: 100%;
+  max-width: 720px;
+  margin: 32px 0;
+}
+
+.cwd-gallery img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
+@media (max-width: 700px) {
+  .cwd-gallery {
+    grid-template-columns: 1fr;
+  }
+}
+
 .cwd-credits {
   margin-bottom: 32px;
   padding-bottom: 32px;
@@ -1406,6 +1441,27 @@ body:has(.hero) .copyright {
 
 .cwd-description p:last-child {
   margin-bottom: 0;
+}
+
+.cwd-description a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.cwd-description a:hover,
+.cwd-description a:focus-visible {
+  opacity: 0.7;
+}
+
+.cwd-description {
+  border-bottom: 1px solid #d9d9d9;
+  padding-bottom: 32px;
+  margin-bottom: 32px;
+}
+
+.cwd-description--justify p {
+  text-align: justify;
+  text-justify: inter-ideograph;
 }
 
 .cwd-lyrics p:last-child {
