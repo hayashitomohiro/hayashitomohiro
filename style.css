@@ -1360,18 +1360,16 @@ body:has(.hero) .copyright {
 .cwd-video-wrap {
   position: relative;
   width: 100%;
-  max-width: 480px;
+  max-width: 640px;
   margin: 32px 0;
-  padding-bottom: 56.25%;
-  height: 0;
+  aspect-ratio: 16 / 9;
   overflow: hidden;
   background-color: #e5e5e2;
 }
 
 .cwd-video-wrap iframe {
   position: absolute;
-  top: 0;
-  left: 0;
+  inset: 0;
   width: 100%;
   height: 100%;
   border: 0;
