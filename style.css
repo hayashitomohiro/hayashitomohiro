@@ -1387,11 +1387,26 @@ body:has(.hero) .copyright {
   letter-spacing: 0.02em;
 }
 
-.cwd-lyrics p {
+.cwd-credits a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: opacity 0.25s ease;
+}
+
+.cwd-credits a:hover,
+.cwd-credits a:focus-visible {
+  opacity: 0.7;
+}
+
+.cwd-description p {
   font-size: 0.85rem;
   line-height: 1.9;
   letter-spacing: 0.02em;
   margin-bottom: 24px;
+}
+
+.cwd-description p:last-child {
+  margin-bottom: 0;
 }
 
 .cwd-lyrics p:last-child {
