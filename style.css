@@ -1425,6 +1425,7 @@ body:has(.hero) .copyright {
 .cwd-credits a {
   text-underline-offset: 3px;
   transition: opacity 0.25s ease;
+  letter-spacing: 0;
 }
 
 .cwd-credits a:hover,
