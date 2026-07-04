@@ -1396,6 +1396,10 @@ body:has(.hero) .copyright {
   }
 }
 
+.cwd-gallery:has(img:only-child) {
+  grid-template-columns: 1fr;
+}
+
 .cwd-credits {
   margin-bottom: 32px;
   padding-bottom: 32px;
