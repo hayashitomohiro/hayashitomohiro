@@ -1103,13 +1103,11 @@ span.mu-row:hover {
   letter-spacing: 0.02em;
   text-align: justify;
   text-justify: inter-ideograph;
-  margin-bottom: 0;
-  text-indent: 1em;
+  margin-bottom: 24px;
 }
 
 html[lang="en"] .mu-section-text {
   text-align: left;
-  text-indent: 1.5em;
 }
 
 .mu-section-text + .mu-section-text {
