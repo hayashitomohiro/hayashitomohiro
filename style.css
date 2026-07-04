@@ -258,6 +258,8 @@ li {
 .page-layout {
   position: relative;
   flex: 1;
+  display: flex;
+  flex-direction: column;
   background-color: #f4f4f2;
 }
 
@@ -269,8 +271,8 @@ li {
 }
 
 .profile-main {
+  flex: 1;
   width: 100%;
-  min-height: 100vh;
   padding: 132px 56px 80px;
   display: flex;
   justify-content: center;
@@ -379,7 +381,6 @@ html[lang="en"] .profile-bio p:first-child {
   }
 
   .profile-main {
-    min-height: auto;
     padding: 40px 24px 56px;
     justify-content: center;
   }
@@ -394,7 +395,6 @@ html[lang="en"] .profile-bio p:first-child {
 ============================================ */
 .cv-main {
   width: 100%;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   padding: 132px 56px 100px var(--content-pad);
@@ -508,7 +508,6 @@ html[lang="en"] .profile-bio p:first-child {
 ============================================ */
 .cw-main {
   width: 100%;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   padding: 124px 56px 100px var(--content-pad);
@@ -645,7 +644,6 @@ html[lang="en"] .profile-bio p:first-child {
 ============================================ */
 .cwd-main {
   width: 100%;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   padding: 124px 56px 100px var(--content-pad);
@@ -736,7 +734,6 @@ html[lang="en"] .profile-bio p:first-child {
 ============================================ */
 .ex-main {
   width: 100%;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   padding: 124px 56px 100px var(--content-pad);
@@ -847,7 +844,6 @@ html[lang="en"] .profile-bio p:first-child {
 ============================================ */
 .pf-main {
   width: 100%;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   padding: 124px 56px 100px var(--content-pad);
@@ -958,7 +954,6 @@ html[lang="en"] .profile-bio p:first-child {
 ============================================ */
 .ct-main {
   width: 100%;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   padding: 124px 56px 100px var(--content-pad);
@@ -1022,7 +1017,6 @@ html[lang="en"] .profile-bio p:first-child {
 ============================================ */
 .mu-main {
   width: 100%;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   padding: 124px 56px 100px var(--content-pad);
