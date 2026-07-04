@@ -1462,3 +1462,21 @@ html[lang="en"] .cwd-description--justify p {
 .cwd-lyrics p:last-child {
   margin-bottom: 0;
 }
+
+@media (max-width: 640px) {
+  .cwd-title {
+    font-size: 1.05rem;
+  }
+
+  .cwd-date {
+    font-size: 0.75rem;
+  }
+
+  .cwd-client,
+  .cwd-credits p,
+  .cwd-description p,
+  .cwd-lyrics p,
+  .cwd-placeholder p {
+    font-size: 0.8rem;
+  }
+}
