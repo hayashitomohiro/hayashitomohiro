@@ -1,68 +1,51 @@
 <!DOCTYPE html>
+
 <html lang="ja">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>Exhibition｜HAYASHI Tomohiro</title>
-<meta name="description" content="林朋紘のウェブサイトです。">
-<link rel="icon" type="image/jpeg" href="images/profile.jpg">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+<meta content="林朋紘のウェブサイトです。" name="description"/>
+<link href="images/profile.jpg" rel="icon" type="image/jpeg"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&amp;display=swap" rel="stylesheet"/>
+<link href="style.css" rel="stylesheet"/>
 </head>
 <body>
-
-  <div class="lang-switch">
-    <span class="lang-current">JP</span>
-    <span class="lang-sep">/</span>
-    <a href="en/exhibition.html">EN</a>
-  </div>
-
-  <div class="page-layout">
-
-    <div class="sidebar">
-      <header class="site-header">
-        <a href="index.html" class="site-name">林朋紘｜HAYASHI Tomohiro</a>
-      </header>
-
-      <nav class="main-nav">
-        <a href="hello.html" class="greeting">こんにちは</a>
-        <ul class="nav-list">
-          <li><a href="exhibition.html">exhibition</a></li>
-          <li><a href="performance.html">performance</a></li>
-          <li><a href="music.html">music</a></li>
-          <li><a href="client-works.html">client works</a></li>
-          <li><a href="contact.html">contact</a></li>
-        </ul>
-      </nav>
-    </div>
-
-    <main class="ex-main">
-      <div class="ex-content">
-
-        <p class="ex-intro">各項目をクリックすると，詳細ページをご覧いただけます。</p>
-
-        <div class="ex-header-row">
-          <span class="ex-date">date</span>
-          <span class="ex-title">exhibition</span>
-          <span class="ex-location">location</span>
-        </div>
-
-        <ul class="ex-list">
-          <li><a href="exhibition/geikosai-course-exhibition-2026.html" class="ex-row"><span class="ex-date">2026.6－</span><span class="ex-title">九州大学芸術工学部コース展示</span><span class="ex-location">九州大学大橋キャンパス<br>多次元デザイン実験棟</span></a></li>
-          <li><a href="exhibition/dissolving-dimentions.html" class="ex-row"><span class="ex-date">2025.10.11－11.9</span><span class="ex-title">二人展「Dissolving Dimentions」</span><span class="ex-location">台湾・台南市<br>絕對空間｜Absolute Space for the Arts</span></a></li>
-          <li><a href="exhibition/mado-no-mukou.html" class="ex-row"><span class="ex-date">2025.9.30－10.26</span><span class="ex-title">写真展「窓の向こう」</span><span class="ex-location">福岡市東図書館</span></a></li>
-          <li><a href="exhibition/refractive-mediums.html" class="ex-row"><span class="ex-date">2025.6.23－6.26</span><span class="ex-title">グループ展「refractive mediums」</span><span class="ex-location">九州大学大橋キャンパス<br>多次元デザイン実験棟</span></a></li>
-          <li><a href="exhibition/field-recording-practice.html" class="ex-row"><span class="ex-date">2025.5.12－5.16</span><span class="ex-title">個展「フィールド・レコーディングとその実践」</span><span class="ex-location">九州大学大橋キャンパス<br>芸術工学図書館</span></a></li>
-        </ul>
-
-      </div>
-    </main>
-
-  </div>
-
+<div class="lang-switch">
+<span class="lang-current">JP</span>
+<span class="lang-sep">/</span>
+<a href="en/exhibition.html">EN</a>
+</div>
+<div class="page-layout">
+<div class="sidebar">
+<header class="site-header">
+<a class="site-name" href="index.html">林朋紘｜HAYASHI Tomohiro</a>
+</header>
+<nav class="main-nav">
+<a class="greeting" href="hello.html">こんにちは</a>
+<ul class="nav-list">
+<li><a href="exhibition.html">exhibition</a></li>
+<li><a href="performance.html">performance</a></li>
+<li><a href="music.html">music</a></li>
+<li><a href="client-works.html">client works</a></li>
+<li><a href="contact.html">contact</a></li>
+</ul>
+</nav>
+</div>
+<main class="ex-main">
+<div class="ex-content">
+<p class="ex-intro">各項目をクリックすると，詳細ページをご覧いただけます。</p>
+<div class="ex-header-row">
+<span class="ex-date">date</span>
+<span class="ex-title">exhibition</span>
+<span class="ex-location">location</span>
+</div>
+<ul class="ex-list" id="ex-list"></ul>
+</div>
+</main>
+</div>
 <div class="copyright copyright--inline">© 2026 HAYASHI Tomohiro.</div>
-
-</body>
+<script src="assets/data/exhibition.js"></script><script src="assets/site.js"></script><script>renderSimpleList('ja', 'exhibition', 'ex-list', 'work.html');</script></body>
 </html>
