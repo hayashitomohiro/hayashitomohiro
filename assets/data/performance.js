@@ -42,6 +42,9 @@ window.WORKS_DATA["performance"] = {
         "title": "ライブイベント「freq-260530 deer revenge」出演",
         "sub": "九州大学大橋キャンパス 音響特殊棟 録音スタジオ",
         "bodyHtml": `
+          <div class="cwd-video-wrap">
+                        <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2336481740&color=%235a5752&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/otototomo_ni" title="林 朋紘" target="_blank" style="color: #cccccc; text-decoration: none;">林 朋紘</a> · <a href="https://soundcloud.com/otototomo_ni/260530_performance-freq" title="260530_performance@freq" target="_blank" style="color: #cccccc; text-decoration: none;">260530_performance@freq</a></div>
+                      </div>
           <div class="cwd-description cwd-description--justify">
                     <p>
                       九州大学芸術工学研究院・城一裕さん主催のイベント「freq-260530 deer revenge」において，写真家のホンマタカシさんのライブパフォーマンスのオープニング・アクトとして出演しました。
@@ -58,13 +61,9 @@ window.WORKS_DATA["performance"] = {
                     <p>
                       <a href="https://danc.kyushu-u.ac.jp/events/freq-260530/" rel="noopener noreferrer" target="_blank">
                         イベントの詳細ページ
-                      </a></br>
-                      <a href="https://soundcloud.com/otototomo_ni/260530_performance-freq" rel="noopener noreferrer" target="_blank">
-                        アーカイブ音源
                       </a>
-                    </p>
-                    <p>
-                    <a href="https://www.instagram.com/seeing_itself/" rel="noopener noreferrer" target="_blank">
+                    <br/>
+                      <a href="https://www.instagram.com/seeing_itself/" rel="noopener noreferrer" target="_blank">
                         ホンマタカシさん
                       </a>
                     </p>
@@ -126,8 +125,35 @@ window.WORKS_DATA["performance"] = {
         "title": "ライブイベント「ozm_sis vol.2」出演",
         "sub": "Artist Cafe Fukuoka Grand Studio",
         "bodyHtml": `
-          <div class="cwd-placeholder">
-                    <p>準備中です。</p>
+          <div class="cwd-video-wrap">
+                        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/9wEPEcW69kk?si=eymV1p-sv9ya0vs9" title="YouTube video player"></iframe>
+                      </div>
+          <div class="cwd-credits">
+                        <p>Sound／林朋紘</p>
+                        <p>Visual／<a href="https://momokan5dce1.myportfolio.com/" rel="noopener noreferrer" target="_blank">松田百叶</a></p>
+                      </div>
+          <div class="cwd-description cwd-description--justify">
+                    <p>
+                      オーディオ・ヴィジュアルイベント「ozm_sis vol.2」にて，私による弾き語り演奏と，松田百叶さんの三面投影による映像を組み合わせたパフォーマンスを行いました。
+                    </p>
+                    <p>
+                    とりわけ3曲目では「まなざし」をテーマとし，映像・演奏・撮影行為の関係性に着目しました。映像には，松田さんが知人の日常的な振る舞いを自然体のまま撮影した実写映像を用い，パフォーマンス中には松田さん自身が演奏中の私をリアルタイムで撮影しました。映像における「撮影」という行為を，現在進行中のパフォーマンス空間にも再帰的に導入することで，映像内の出来事と目の前の出来事が重なり合う構造を試みました。
+                    </p>
+                    <p>
+                    さらに，映像に映る人々の行為は演技ではなく日常生活の記録であり，それがライブ・パフォーマンスという文脈の中で再提示されることで，ドキュメンタリーとフィクション，記録と現在進行中の出来事との境界が揺らぐ体験を目指しました。
+                    </p>
+                    <p>
+                    後日，松田さんとの協働で，ビジュアルで用いた映像素材を再構成した映像作品《<a href="https://www.youtube.com/watch?v=wT9KXGC8AVc" rel="noopener noreferrer" target="_blank">まなざし</a>》を制作しました。
+                    <p/>
+                    <p>
+                      <a href="https://momokan5dce1.myportfolio.com/" rel="noopener noreferrer" target="_blank">
+                        松田百叶さん
+                      </a>
+                      </br>
+                      <a href="https://www.instagram.com/ozm_sis/" rel="noopener noreferrer" target="_blank">
+                        ozm_sis
+                      </a>
+                    </p>
                   </div>
         `
       },

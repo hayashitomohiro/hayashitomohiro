@@ -86,7 +86,7 @@ window.WORKS_DATA["exhibition"] = {
                       <a href="https://fukuoka-east-library.com/" rel="noopener noreferrer" target="_blank">
                         福岡市東図書館
                       </a></br>
-                      <a href="https://www.instagram.com/omochi__gome/" rel="noopener noreferrer" target="_blank">
+                      <a href="https://momokan5dce1.myportfolio.com/" rel="noopener noreferrer" target="_blank">
                         松田百叶さん
                       </a>
                     </p>
