@@ -115,6 +115,7 @@
     var nextWork = index > 0 ? works[index - 1] : null;
 
     document.title = work.pageTitle + "｜HAYASHI Tomohiro";
+    document.documentElement.lang = lang;
 
     var navPrefix = lang === "en" ? "en/" : "";
     var otherLang = lang === "en" ? "ja" : "en";

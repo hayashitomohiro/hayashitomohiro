@@ -344,7 +344,8 @@ html[lang="en"] .profile-bio p:first-child {
   line-height: 1;
   letter-spacing: 0.05em;
   text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 3.5px;
   transition: opacity 0.25s ease;
 }
 
@@ -452,7 +453,8 @@ html[lang="en"] .profile-bio p:first-child {
   font-size: 0.85rem;
   letter-spacing: 0.05em;
   text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 3.5px;
   transition: opacity 0.25s ease;
 }
 
@@ -700,7 +702,8 @@ html[lang="en"] .profile-bio p:first-child {
   font-size: 0.85rem;
   letter-spacing: 0.05em;
   text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 3.5px;
   transition: opacity 0.25s ease;
 }
 
@@ -1297,7 +1300,8 @@ body:has(.hero) .copyright {
 .cwd-prev a,
 .cwd-next a {
   text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 3.5px;
   transition: opacity 0.25s ease;
 }
 
@@ -1434,7 +1438,8 @@ body:has(.hero) .copyright {
 
 .cwd-description a {
   text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 3.5px;
 }
 
 .cwd-description a:hover,
