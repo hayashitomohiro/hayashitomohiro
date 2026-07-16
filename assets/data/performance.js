@@ -94,7 +94,7 @@ window.WORKS_DATA["performance"] = {
         "pageTitle": "ライブイベント「ozm_sis vol.3」DJ",
         "date": "2025.12.7",
         "title": "ライブイベント「ozm_sis vol.3」DJ",
-        "sub": "九州大学大橋キャンパス<br/>多次元デザイン実験棟",
+        "sub": "九州大学大橋キャンパス 多次元デザイン実験棟 オープンスタジオ",
         "bodyHtml": `
           <div class="cwd-placeholder">
                     <p>準備中です。</p>
@@ -203,7 +203,7 @@ window.WORKS_DATA["performance"] = {
         "pageTitle": "Live event 'ozm_sis vol.3' (DJ)",
         "date": "2025.12.7",
         "title": "Live event \"ozm_sis vol.3\" (DJ)",
-        "sub": "Multi Purpose Building,<br/>Kyushu University Ohashi Campus",
+        "sub": " Open Studio, Multi Purpose Building, Kyushu University Ohashi Campus",
         "bodyHtml": `
           <div class="cwd-placeholder">
                     <p>Coming soon.</p>
