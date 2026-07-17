@@ -89,14 +89,27 @@ window.WORKS_DATA["performance"] = {
         "id": "ozm-sis-vol3",
         "listDate": "2025.12.7",
         "listTitle": "ライブイベント「ozm_sis vol.3」DJ",
-        "listSub": "九州大学大橋キャンパス<br/>多次元デザイン実験棟",
+        "listSub": "九州大学大橋キャンパス<br/>多次元デザイン実験棟 オープンスタジオ",
         "pageTitle": "ライブイベント「ozm_sis vol.3」DJ",
         "date": "2025.12.7",
         "title": "ライブイベント「ozm_sis vol.3」DJ",
         "sub": "九州大学大橋キャンパス 多次元デザイン実験棟 オープンスタジオ",
         "bodyHtml": `
-          <div class="cwd-placeholder">
-                    <p>準備中です。</p>
+          <div class="cwd-gallery">
+                    <img alt="DJの様子" src="images/ozmsis_3.jpg"/>
+                  </div>
+          <div class="cwd-credits">
+                        <p>Photographer／<a href="https://momokan5dce1.myportfolio.com/" rel="noopener noreferrer" target="_blank">松田百叶</a></p>
+                      </div>
+          <div class="cwd-description cwd-description--justify">
+                    <p>
+                      ライブカメラマンを務めたオーディオ・ヴィジュアルイベント「ozm_sis vol.3」にて，開演前のオープニングDJをしました。Indie POPやR&Bを中心とした，比較的ゆったりめの楽曲でゆったりやりました。最後にはこのために作ったオリジナルの楽曲《<a href="https://www.youtube.com/watch?v=OCYkin-9dKo" rel="noopener noreferrer" target="_blank">結別</a>》を流しました。初めてのDJで，とても難しかったですが，楽しかったです。精進します。
+                    </p>
+                    <p>
+                      <a href="https://www.instagram.com/ozm_sis/" rel="noopener noreferrer" target="_blank">
+                        ozm_sis
+                      </a>
+                    </p>
                   </div>
         `
       },
@@ -161,14 +174,32 @@ window.WORKS_DATA["performance"] = {
         "id": "refractive-mediums",
         "listDate": "2025.6.23",
         "listTitle": "ライブイベント「refractive mediums」出演",
-        "listSub": "九州大学大橋キャンパス<br/>音響特殊棟",
+        "listSub": "九州大学大橋キャンパス<br/>音響特殊棟 録音スタジオ",
         "pageTitle": "ライブイベント「refractive mediums」出演",
         "date": "2025.6.23",
         "title": "ライブイベント「refractive mediums」出演",
-        "sub": "九州大学大橋キャンパス<br/>音響特殊棟",
+        "sub": "九州大学大橋キャンパス 音響特殊棟 録音スタジオ",
         "bodyHtml": `
-          <div class="cwd-placeholder">
-                    <p>準備中です。</p>
+          <div class="cwd-gallery">
+                    <img alt="パフォーマンスの様子" src="images/refractive_mediums_performance.jpg"/>
+                    <img alt="カメラマンによる写真" src="images/refractive_mediums_performance-02.jpg"/>
+                  </div>
+          <div class="cwd-credits">
+                        <p>Vocal, Guitar／林朋紘</p>
+                        <p>Photographer／<a href="https://momokan5dce1.myportfolio.com/" rel="noopener noreferrer" target="_blank">松田百叶</a></p>
+                      </div>
+          <div class="cwd-description cwd-description--justify">
+                    <p>
+                      グループ展「refractive mediums」のオープニングイベントに出演。ギターと歌による弾き語りを軸としながら，その様子を記録するライブカメラマンの身体運動やシャッター音をパフォーマンスの構成要素として取り入れ，演奏者と記録者を同列に位置づけました。一般的なライブで周縁化されがちな「記録」という行為を，即興的な演奏の一部として舞台空間へ組み込むことを試みました。
+                    </p>
+                    <p>
+                    ライブカメラマンは一眼レフカメラを携え，客席内を移動しながら演奏者を撮影しました。その移動音やシャッター音も演奏の一部として扱い，演奏者だけでなく，記録者や観客を含めた展示空間全体を，一つの音楽的出来事が生成される場として立ち上げることを目指しました。
+                    </p>
+                    <p>
+                      <a href="https://momokan5dce1.myportfolio.com/" rel="noopener noreferrer" target="_blank">
+                        松田百叶さん
+                      </a>
+                    </p>
                   </div>
         `
       }
