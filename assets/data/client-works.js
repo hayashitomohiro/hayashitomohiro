@@ -12,17 +12,25 @@ window.WORKS_DATA["client-works"] = {
         "title": "カバー動画「宇宙の季節／Lanndo feat.Eve,suis」ミュージックビデオ",
         "sub": "朝比奈御空，生田ねお",
         "bodyHtml": `
-          <div class="cwd-gallery">
-                    <img alt="山元汰央アーティスト写真" src="images/yamamototao.jpg"/>
-                  </div>
+          <div class="cwd-video-wrap">
+                        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/hMkSjzSNraM?si=fWQLSu5te0_0rSNu" title="YouTube video player"></iframe>
+                      </div>
+          <div class="cwd-credits">
+                        <p>Vocal（suis）／<a ref="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">朝比奈御空</a></p>
+                        <p>Vocal（Eve）, Mix／<a href="https://www.instagram.com/ikuta_neo?igsh=Y3A3enZlbmEwajho&utm_source=qr" rel="noopener noreferrer" target="_blank">生田ねお</a></p>
+                        <p>Video／林朋紘</p>
+                      </div>
           <div class="cwd-description cwd-description--justify">
                     <p>
-                      山元汰央さんのアーティスト写真を撮影させていただきました。顔のブレは，編集ではなく山元さんのフィジカルと，シャッタースピードによるものです。
+                      朝比奈御空さん，生田ねおさんのカバー動画のミュージックビデオを制作いたしました。ミュージックビデオの撮影地で同時にお二人のアーティスト写真も撮影させていただきました。
                     </p>
                     
                     <p>
-                      <a href="https://www.instagram.com/tao_yamamoto" rel="noopener noreferrer" target="_blank">
-                        山元汰央さん
+                      <a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">
+                        朝比奈御空さん
+                      </a></br>
+                      <a href="https://www.instagram.com/ikuta_neo?igsh=Y3A3enZlbmEwajho&utm_source=qr" rel="noopener noreferrer" target="_blank">
+                        生田ねおさん
                       </a>
                     </p>
                   </div>
