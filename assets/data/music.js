@@ -1170,7 +1170,7 @@ window.WORKS_DATA['music'] = {
               <div class="cwd-credits">
                 <p>Original: YUKI Ko (Japanese lyrics), Franz Xaver Gruber (music)</p>
                 <p>Arrangement: TERUYAMA Momiji</p>
-                <p>Artwork: <a href="https://suzumi-designs.com/" rel="noopener noreferrer" target="_blank">YAMAZAKI Suzumi</a></p>
+                <p>Artwork: <a href="https://suzumi-designs.com/" rel="noopener noreferrer" target="_blank">YAMASAKI Suzumitsu</a></p>
               </div>
               <div class="cwd-description">
                 <p>Because it was Christmas.</p>
