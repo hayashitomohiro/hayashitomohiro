@@ -881,16 +881,27 @@ window.WORKS_DATA['music'] = {
             "id": "ketsubetsu",
             "listDate": "2025.12.9",
             "listTitle": "Farewell",
+            "listNote": "",
             "pageTitle": "Farewell",
             "date": "2025.12.9",
             "title": "Farewell",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": ""
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/OCYkin-9dKo?si=Volfrosfn3qTwId1" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Music, Lyrics, Video: HAYASHI Tomohiro</p>
+                <p>Cast: <a href="https://momokan5dce1.myportfolio.com/" rel="noopener noreferrer" target="_blank">MATSUDA Momoka</a></p>
+              </div>
+              <div class="cwd-description">
+                <p>Lyrics (English translation)</p>
+                <p>I stomped straight through the puddle<br/>I never knew how to take a side road</p>
+                <p>I smashed the glass window!<br/>The scattered shards were beautiful</p>
+                <p>We were searching for fragments of a rainbow, weren't we<br/>This is as far as we go, isn't it<br/>Well then, see you</p>
+                <p>If we meet again<br/>let's make a pinky promise<br/>this is goodbye<br/>don't look back</p>
+              </div>
+            `
           }
         ]
       },
@@ -905,308 +916,473 @@ window.WORKS_DATA['music'] = {
             "id": "dokushokai",
             "listDate": "2025.10",
             "listTitle": "Film: <em>Bookaholic Circle</em>",
+            "listNote": "client work",
             "pageTitle": "Bookaholic Circle",
             "date": "2025.10",
             "title": "Film: <em>Bookaholic Circle</em>",
             "sub": null,
             "bodyHtml": `
               <div class="cwd-gallery">
-                        <img alt="Bookaholic Circle fryer" class="is-portrait" src="./images/dokushokai.jpg"/>
-                      </div>
+                <img alt="Bookaholic Circle flyer" class="is-portrait" src="images/dokushokai.jpg"/>
+              </div>
               <div class="cwd-credits">
-                        <p>Direction: KUBOYAMA Masafumi</p>
-                        <p>Music: TERUYAMA Momiji</p>
-                      </div>
+                <p>Direction: KUBOYAMA Masafumi</p>
+                <p>Music: TERUYAMA Momiji</p>
+              </div>
               <div class="cwd-description cwd-description--justify">
-                        <p>
-                          I composed the original score for <cite>Bookaholic Circle</cite>, an independent film set in Kiyama, Miyaki District, Saga Prefecture, Japan. Following the story of a peculiar book club where avid readers with hidden pasts gather and where love and delusion intertwine, I created a melancholic solo guitar theme as well as additional score pieces to accompany scene transitions throughout the film.
-                        </p>
-              
-                        <p>
-                          <a href="https://www.instagram.com/kii_no_movie/" rel="noopener noreferrer" target="_blank">Film: <em>Bookaholic Circle</em> official
-                          </a>
-                        </p>
-                      </div>
-            `,
-            "listNote": "client work"
+                <p>
+                  I composed the original score for <cite>Bookaholic Circle</cite>, an independent film set in Kiyama, Miyaki District, Saga Prefecture, Japan. Following the story of a peculiar book club where avid readers with hidden pasts gather and where love and delusion intertwine, I created a melancholic solo guitar theme as well as additional score pieces to accompany scene transitions throughout the film.
+                </p>
+                <p>
+                  <a href="https://www.instagram.com/kii_no_movie/" rel="noopener noreferrer" target="_blank">Film: <em>Bookaholic Circle</em> official</a>
+                </p>
+              </div>
+            `
           },
           {
             "id": "mosh-ikizuku",
             "listDate": "2025.3.17－23",
             "listTitle": "Ikizuku",
+            "listNote": "client work",
             "pageTitle": "Ikizuku",
             "date": "2025.3.17－23",
             "title": "Ikizuku",
             "sub": null,
             "bodyHtml": `
               <div class="cwd-gallery">
-                        <img alt="ikizuku image1" src="./images/ikizuku-01.jpg"/>
-                        <img alt="ikizuku image2" src="./images/ikizuku-02.jpg"/>
-                      </div>
+                <img alt="Ikizuku image 1" src="images/ikizuku-01.jpg"/>
+                <img alt="Ikizuku image 2" src="images/ikizuku-02.jpg"/>
+              </div>
               <div class="cwd-credits">
-                        <p>Music: TERUYAMA Momiji</p>
-                        <p>Artwork: <a href="https://www.instagram.com/design_mosh" rel="noopener noreferrer" target="_blank">mosh</a>, TERUYAMA Momiji</p>
-                      </div>
+                <p>Music: TERUYAMA Momiji</p>
+                <p>Artwork: <a href="https://www.instagram.com/design_mosh" rel="noopener noreferrer" target="_blank">mosh</a>, TERUYAMA Momiji</p>
+              </div>
               <div class="cwd-description cwd-description--justify">
-                        <p>
-                          I created the venue music for the second half of <cite>Ikizuku (Breathing)</cite>, a solo exhibition by mosh held at Kuwanomi Cafe from March 17 to 23, 2025. This recording features an improvised performance based on poems written for the exhibition, performed as the artist installed the works. The performance was created using a sampler loaded with recordings of a piano originally recorded at my family home and repeatedly played back and re-recorded in various locations.
-                        </p>
-                        
-                        <p>
-                          Price: ¥500 (+ shipping for orders outside the local area)<br/>To purchase a copy, please get in touch via <a href="en/contact.html">contact</a>.
-                        </p>
-              
-                        <p>
-                          <a href="https://www.instagram.com/design_mosh" rel="noopener noreferrer" target="_blank">
-                            mosh
-                          </a>
-                          <br/><a href="https://www.instagram.com/kuwanomi.cafe/" rel="noopener noreferrer" target="_blank">
-                            Kuwanomi cafe
-                          </a>
-                        </p>
-                      </div>
-            `,
-            "listNote": "client work"
+                <p>
+                  I created the venue music for the second half of <cite>Ikizuku (Breathing)</cite>, a solo exhibition by mosh held at Kuwanomi Cafe from March 17 to 23, 2025. This recording features an improvised performance based on poems written for the exhibition, performed as the artist installed the works. The performance was created using a sampler loaded with recordings of a piano originally recorded at my family home and repeatedly played back and re-recorded in various locations.
+                </p>
+                <p>
+                  Price: ¥500 (+ shipping for orders outside the local area)<br/>To purchase a copy, please get in touch via <a href="en/contact.html">contact</a>.
+                </p>
+                <p>
+                  <a href="https://www.instagram.com/design_mosh" rel="noopener noreferrer" target="_blank">mosh</a>
+                  <br/><a href="https://www.instagram.com/kuwanomi.cafe/" rel="noopener noreferrer" target="_blank">Kuwanomi Cafe</a>
+                </p>
+              </div>
+            `
           },
           {
             "id": "hana-wa-saku-cover",
             "listDate": "2025.3.11",
             "listTitle": "Hana wa Saku／Hana wa Saku Project",
+            "listNote": "cover",
             "pageTitle": "Hana wa Saku／Hana wa Saku Project",
             "date": "2025.3.11",
             "title": "Hana wa Saku／Hana wa Saku Project",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": "cover"
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/BfpQQy3srb4?si=b6Q9Qsw5KWI9QKTX" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Original: <a href="https://www2.nhk.or.jp/archives/movies/?id=D0026040881_00000" rel="noopener noreferrer" target="_blank">https://www2.nhk.or.jp/archives/movies/?id=D0026040881_00000</a></p>
+                <p>All: TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>The piano, I played last year<br/>The vocals, I sang today</p>
+                <p>No matter how many times I sing it, it never goes well<br/>Still, I sing</p>
+                <p>As always, today was an ordinary day<br/>and as always, today was a special day</p>
+                <p>Happy things, sad things<br/>I am kept alive by every one of them</p>
+                <p>Singing this song today was something special<br/>and singing this song today was nothing special at all</p>
+              </div>
+            `
           },
           {
             "id": "natsu-ga",
             "listDate": "2025.3.1",
             "listTitle": "Natsu ga",
+            "listNote": "",
             "pageTitle": "Natsu ga",
             "date": "2025.3.1",
             "title": "Natsu ga",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": ""
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/vxI9rkxiyMw?si=Dhc_1AfvMD33XmO2" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Music: <a href="https://x.com/RyoheyNakamura" rel="noopener noreferrer" target="_blank">Ryohey Nakamura</a>, TERUYAMA Momiji</p>
+                <p>Lyrics: TERUYAMA Momiji</p>
+                <p>Video: <a href="https://x.com/chan__o_o_" rel="noopener noreferrer" target="_blank">chan</a>, TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>Lyrics (English translation)</p>
+                <p>That higurashi cicada is singing</p>
+                <p>Only that kid left out<br/>Homework still blank<br/>The visit to the family grave I never made<br/>My head, or anywhere else, never really hurt<br/>Playing with bugs, hidden from everyone<br/>Is no one watching?<br/>Only you were watching</p>
+              </div>
+            `
           },
           {
             "id": "ichidokiri-no-yoru",
             "listDate": "2024.12.25",
             "listTitle": "One Night Only",
+            "listNote": "",
             "pageTitle": "One Night Only",
             "date": "2024.12.25",
             "title": "One Night Only",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": ""
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ljWqoX07gZ4?si=t-e5ijk0TeqSzXIA" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Music: <a href="https://www.youtube.com/channel/UCtxCxycBLO6tu-u-RfAShpg" rel="noopener noreferrer" target="_blank">Tori</a>, TERUYAMA Momiji</p>
+                <p>Lyrics: TERUYAMA Momiji</p>
+                <p>Video: <a href="https://x.com/Taiyaki_any" rel="noopener noreferrer" target="_blank">Naly</a></p>
+              </div>
+              <div class="cwd-description">
+                <p>Lyrics (English translation)</p>
+                <p>Wind, town, trembling fingers<br/>White footsteps creaking<br/>Cheeks flushed red<br/>I run along the road home</p>
+                <p>Even that person who's always frowning is smiling today<br/>Unless I'm my most beautiful self, I can't hold all this warmth</p>
+                <p>Don't forget, this one day<br/>is a day just for gathering around the light</p>
+                <p>Snow piling up on the windowsill<br/>Minestrone on the table</p>
+                <p>Today it all comes to an end<br/>Overflowing with light</p>
+                <p>Burn it into your eyes, the living-room lamp<br/>Just waiting and longing, the gift in the shade of the tree</p>
+                <p>Listen, the bells are ringing<br/>Softly I make a wish on the star at the treetop</p>
+                <p>We can't go back now, I close my eyes<br/>Softly I blow out the candle of prayer</p>
+                <p>Even when I look back on this night<br/>the magic of the bubbles just keeps on bursting</p>
+              </div>
+            `
           },
           {
             "id": "menou-cover",
             "listDate": "2024.8.15",
             "listTitle": "Menou／NUUAMM",
+            "listNote": "cover",
             "pageTitle": "Menou／NUUAMM",
             "date": "2024.8.15",
             "title": "Menou／NUUAMM",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": "cover"
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/6Jv6xKaRCJo?si=0SBIRiCZnLsFxT8E" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Original: <a href="https://www.youtube.com/watch?v=BSnGZY85seo" rel="noopener noreferrer" target="_blank">https://www.youtube.com/watch?v=BSnGZY85seo</a></p>
+                <p>Guitar, Video: TERUYAMA Momiji</p>
+                <p>Vocal: Momone, TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>In commemoration of the anniversary of the end of the war (August 15).</p>
+              </div>
+            `
           },
           {
             "id": "echo",
             "listDate": "2024.7.23",
             "listTitle": "echo",
+            "listNote": "",
             "pageTitle": "echo",
             "date": "2024.7.23",
             "title": "echo",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": ""
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/YtaMY-NzqoU?si=ZMyuUrXQz-Er7AJL" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>All: TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>A video work made for an exhibition on the theme of "echo," held by a creative club at my university.</p>
+              </div>
+            `
           },
           {
             "id": "hokorobi",
             "listDate": "2024.6.26",
             "listTitle": "Hokorobi",
+            "listNote": "",
             "pageTitle": "Hokorobi",
             "date": "2024.6.26",
             "title": "Hokorobi",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": ""
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/9RFe5-V2GA4?si=KNy77EAvjcpePE8e" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>All: TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>Lyrics (English translation)</p>
+                <p>Let's walk to your town<br/>At a shop I don't know<br/>on the seam between towns<br/>let's buy some flowers<br/>Taking the long way isn't so bad</p>
+                <p>Things I dreamed of as a child<br/>Things at the back of the drawer<br/>Back when the hollows in the asphalt<br/>from the downpour hadn't faded yet</p>
+                <p>For now, let's just sing<br/>on a chair at the edge of this world<br/>Even that kid who can't find the courage<br/>is playing hide-and-seek under the overpass</p>
+                <p>If I could forget all of this and that<br/>and become that sunlight through the leaves<br/>even mismatched words<br/>could stay just as they are<br/>Even this meaningless time<br/>still matters for now, doesn't it<br/>Until this heartbeat falls silent<br/>what is it that I can do?</p>
+                <p>Let's walk to the end of the rainbow<br/>Let's water the soil in the gap<br/>on the seam between roads<br/>though I don't know if a flower will bloom<br/>Even if you can't hide your tears<br/>I'll hold out my umbrella<br/>I won't forget your pain<br/>I'll forget my own</p>
+                <p>Between "welcome home" and "I'm home"<br/>let's turn the hourglass over<br/>By the time this heartbeat falls silent<br/>what will I be looking at?</p>
+              </div>
+            `
           },
           {
             "id": "harutte",
             "listDate": "2024.5.7",
             "listTitle": "Harutte",
+            "listNote": "",
             "pageTitle": "Harutte",
             "date": "2024.5.7",
             "title": "Harutte",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": ""
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/wA7dUrwkHBQ?si=RvYgXYOgTQCbwZ3D" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>All: TERUYAMA Momiji</p>
+                <p>Special Thanks: <a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">ASAHINA Misora</a>, <a href="https://www.instagram.com/ikuta_neo?igsh=Y3A3enZlbmEwajho&amp;utm_source=qr" rel="noopener noreferrer" target="_blank">IKUTA Neo</a>, <a href="https://x.com/RyoheyNakamura" rel="noopener noreferrer" target="_blank">Ryohey Nakamura</a>, <a href="https://www.instagram.com/taian.pic/" rel="noopener noreferrer" target="_blank">TAIAN</a></p>
+              </div>
+              <div class="cwd-description">
+                <p>Lyrics (English translation)</p>
+                <p>You swept it all away<br/>my weary melancholy<br/>My eyes were stolen by the sprouting grass and flowers</p>
+                <p>Melting in the lukewarm wind<br/>Stroked by soft shadows<br/>Half-remembered birdsong<br/>announces you</p>
+                <p>I worried so much<br/>and yet I'm this happy<br/>A cherry petal falls on my shoulder</p>
+                <p>And still you, all too easily,<br/>drift away in the blink of an eye<br/>By the window where the peach month blooms<br/>I oversleep</p>
+                <p>I struggled so much<br/>and yet I feel this refreshed<br/>An azalea petal falls to the floor</p>
+                <p>Once again I'll forget you<br/>and my fingertips will start to go numb with cold<br/>For now, the kindness of now is enough<br/>Let's walk on this carpet of cherry blossoms</p>
+                <p>You're so unfair, aren't you<br/>You take everything with you<br/>Next time I'll face you properly<br/>and I won't hand over a single thing</p>
+              </div>
+            `
           },
           {
             "id": "kiyoshi-kono-yoru-cover",
             "listDate": "2023.12.25",
             "listTitle": "Silent Night",
-            "pageTitle": "Silent Night",
+            "listNote": "cover",
+            "pageTitle": "Silent Night (cover)",
             "date": "2023.12.25",
             "title": "Silent Night",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": "cover"
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/62PwU_3mYVY?si=d__WKdGGhdmzYHpy" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Original: YUKI Ko (Japanese lyrics), Franz Xaver Gruber (music)</p>
+                <p>Arrangement: TERUYAMA Momiji</p>
+                <p>Artwork: <a href="https://suzumi-designs.com/" rel="noopener noreferrer" target="_blank">YAMAZAKI Suzumi</a></p>
+              </div>
+              <div class="cwd-description">
+                <p>Because it was Christmas.</p>
+              </div>
+            `
           },
           {
             "id": "mongamae",
             "listDate": "2023.11.15",
             "listTitle": "Mongamae",
+            "listNote": "",
             "pageTitle": "Mongamae",
             "date": "2023.11.15",
             "title": "Mongamae",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": ""
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/BGoH0xb2P68?si=0OZ0KZLz3Glwt6kS" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>All: TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>Lyrics (English translation)</p>
+                <p>On a morning when it felt as if I'd been dreaming a long dream<br/>I stroke my sleeve, and the blood flows, now</p>
+                <p>Cutting off what holds me back, clapping my trembling hands<br/>Overcoming the weight of that door, now</p>
+                <p>Gather the shining sand of memories and lock it away<br/>Set the wandering lonelinesses free, now</p>
+              </div>
+            `
           },
           {
             "id": "swimmy-cover",
             "listDate": "2023.8.15",
             "listTitle": "Swimmy／Mekakushe",
+            "listNote": "cover",
             "pageTitle": "Swimmy／Mekakushe",
             "date": "2023.8.15",
             "title": "Swimmy／Mekakushe",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": "cover"
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/YQfKJkfnoZw?si=Pk9ObNiVrODgc58j" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Original: <a href="https://www.youtube.com/watch?v=Xo28omRiQIk" rel="noopener noreferrer" target="_blank">https://www.youtube.com/watch?v=Xo28omRiQIk</a></p>
+                <p>Arrangement: TERUYAMA Momiji</p>
+                <p>Video: R.K, TERUYAMA Momiji</p>
+                <p>Mix: <a href="https://x.com/RyoheyNakamura" rel="noopener noreferrer" target="_blank">Ryohey Nakamura</a></p>
+              </div>
+              <div class="cwd-description">
+                <p>As a prayer on the anniversary of the end of the war (August 15).</p>
+              </div>
+            `
           },
           {
             "id": "veranda-no-cinema",
             "listDate": "2023.7.31",
             "listTitle": "The Cinema on the Balcony",
+            "listNote": "",
             "pageTitle": "The Cinema on the Balcony",
             "date": "2023.7.31",
             "title": "The Cinema on the Balcony",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": ""
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/L68dM3DlxiU?si=QKCDsHWvC14MS-29" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Music, Lyrics, Video: TERUYAMA Momiji</p>
+                <p>Piano: シンセ好きのsakana好き</p>
+              </div>
+              <div class="cwd-description">
+                <p>Lyrics (English translation)</p>
+                <p>When I'm sad, you know<br/>the twilight-tinged morning sun scares me</p>
+                <p>Dancing with the early-morning exhaust fumes<br/>the scent of osmanthus</p>
+                <p>When I'm happy, you know<br/>I smile at the clear night sky</p>
+                <p>In this world, so dear and so gentle<br/>here I am</p>
+                <p>But is it all right<br/>is it all right for me to be here</p>
+                <p>This ache deep in my chest<br/>this helplessness</p>
+                <p>From this one step<br/>wherever I am, I'll step forward</p>
+                <p>Because I can still smile<br/>I just have to walk</p>
+                <p>This feeling of being sick of everything<br/>is forgotten by morning<br/>This feeling I can't put into words<br/>if not now, when will I sing it?</p>
+                <p>The warmth I touched that day<br/>the wound I was given that day<br/>all of it makes me who I am now</p>
+                <p>Today, too, I'm kept alive by something: me</p>
+                <p>This is the proof that I'm alive</p>
+              </div>
+            `
           },
           {
             "id": "rain-cover",
             "listDate": "2023.7.2",
             "listTitle": "Rain／OE Senri",
+            "listNote": "cover",
             "pageTitle": "Rain／OE Senri",
             "date": "2023.7.2",
             "title": "Rain／OE Senri",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": "cover"
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/-9LdpVgb7KY?si=TtUfE3dWzMw87uos" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Original: <a href="https://www.youtube.com/watch?v=FuS9IGQXSiY" rel="noopener noreferrer" target="_blank">https://www.youtube.com/watch?v=FuS9IGQXSiY</a></p>
+                <p>All: TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>Recorded in my one-room apartment during the rainy season of my second year at university.</p>
+              </div>
+            `
           },
           {
             "id": "ushisan-no-ude-no-naka",
             "listDate": "2023.6.26",
             "listTitle": "In the Embrace of Cow's Arms",
+            "listNote": "",
             "pageTitle": "In the Embrace of Cow's Arms",
             "date": "2023.6.26",
             "title": "In the Embrace of Cow's Arms",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": ""
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/8FJdxIaCzHI?si=nfvtt3FMLsNeRIv1" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>All: TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>Lyrics (English translation)</p>
+                <p>When I left the town that never sinks<br/>in the carefree, easygoing meadow<br/>listless, spineless fluff was swimming</p>
+                <p>I gazed, and now I looked ahead</p>
+                <p>I lay down, spread my arms, and tried to snuggle close<br/>A broad back, sensitive at heart yet a little rough<br/>Above the dozy cow and me, a sky gone dull</p>
+                <p>Before the dawn, a ramp up to the truck</p>
+                <p>It smelled of being alive!<br/>The faint warmth of this back gently holds me close</p>
+              </div>
+            `
           },
           {
             "id": "happy-xmas-cover",
             "listDate": "2021.12.25",
             "listTitle": "Happy Xmas（War is Over）／John Lennon",
+            "listNote": "cover",
             "pageTitle": "Happy Xmas（War is Over）／John Lennon",
             "date": "2021.12.25",
             "title": "Happy Xmas（War is Over）／John Lennon",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": "cover"
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/5vyexHjm0oU?si=6Nu0lKA45O0iR0ad" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Original: <a href="https://www.youtube.com/watch?v=g_kj60DIq2M" rel="noopener noreferrer" target="_blank">https://www.youtube.com/watch?v=g_kj60DIq2M</a></p>
+                <p>All: TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>Recorded at my family home during winter break in high school.</p>
+              </div>
+            `
           },
           {
             "id": "kanashikute-yarikirenai-cover",
             "listDate": "2021.5.15",
             "listTitle": "I Can't Bear How Sad It Is／The Folk Crusaders",
+            "listNote": "cover",
             "pageTitle": "I Can't Bear How Sad It Is／The Folk Crusaders",
             "date": "2021.5.15",
             "title": "I Can't Bear How Sad It Is／The Folk Crusaders",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": "cover"
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/9nzhs-h9ILU?si=lL9NfsZ6pITs5nll" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Original: Available on major streaming services.</p>
+                <p>All: TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>Recorded at my family home in the spring of my final year of high school.</p>
+              </div>
+            `
           },
           {
             "id": "untitled-20210313",
             "listDate": "2021.3.13",
             "listTitle": "Untitled",
+            "listNote": "",
             "pageTitle": "Untitled",
             "date": "2021.3.13",
             "title": "Untitled",
             "sub": null,
             "bodyHtml": `
-              <div class="cwd-placeholder">
-                        <p>Coming soon.</p>
-                      </div>
-            `,
-            "listNote": ""
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/iOf4fxmKOJo?si=Xyy7jk8hjvFAkcM_" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>All: TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description">
+                <p>The first song I ever wrote, back when I had no idea what I was doing.</p>
+                <p>Lyrics (English translation)</p>
+                <p>Somehow, this feeling here in my chest<br/>When I close my eyes, your profile comes back to me</p>
+                <p>Narrow yet vast, near yet far<br/>In a pure white world, I can't say a thing</p>
+                <p>Sunlight through the leaves whispers, a pale light<br/>The laughter of the leaves, a lone cloud</p>
+                <p>The sky glances sideways and drifts away<br/>A gentle breeze brushes across the water's surface</p>
+                <p>Something is reaching me, softly whispering<br/>The waves are weaving words</p>
+                <p>Let's take each other's hands and run to the end<br/>Even if we can't share our hearts<br/>let's stay by each other's side</p>
+                <p>I don't take it for granted<br/>waking in the morning to a dazzling sun<br/>I don't want to believe it's only for show<br/>I don't know how to tell you</p>
+                <p>The tears that spilled over, I buried in the soil<br/>I remember the name of the flower that sprouted</p>
+                <p>The clear first cry of the falling, piling snow<br/>Faint death makeup drifting down onto old branches</p>
+                <p>To the fleeting stars swirling in the night sky<br/>I make a wish, and am crushed</p>
+                <p>Shaking off your hand, let's start over from the beginning<br/>I won't look back anymore</p>
+              </div>
+            `
           }
         ]
       }

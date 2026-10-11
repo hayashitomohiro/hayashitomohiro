@@ -16,7 +16,7 @@ window.WORKS_DATA["client-works"] = {
                         <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/hMkSjzSNraM?si=fWQLSu5te0_0rSNu" title="YouTube video player"></iframe>
                       </div>
           <div class="cwd-credits">
-                        <p>Vocal（suis）／<a ref="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">朝比奈御空</a></p>
+                        <p>Vocal（suis）／<a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">朝比奈御空</a></p>
                         <p>Vocal（Eve）, Mix／<a href="https://www.instagram.com/ikuta_neo?igsh=Y3A3enZlbmEwajho&utm_source=qr" rel="noopener noreferrer" target="_blank">生田ねお</a></p>
                         <p>Video／林朋紘</p>
                       </div>
@@ -408,6 +408,39 @@ window.WORKS_DATA["client-works"] = {
   },
   "en": {
     "works": [
+      {
+        "id": "uchunokisetsu",
+        "listDate": "2026.7.13",
+        "listTitle": "Music video for a cover of <cite>Uchu no Kisetsu</cite> (Lanndo feat. Eve, suis)",
+        "listSub": "ASAHINA Misora, IKUTA Neo",
+        "pageTitle": "Music video for a cover of 'Uchu no Kisetsu' (Lanndo feat. Eve, suis)",
+        "date": "2026.7.13",
+        "title": "Music video for a cover of \"Uchu no Kisetsu\" (Lanndo feat. Eve, suis)",
+        "sub": "ASAHINA Misora, IKUTA Neo",
+        "bodyHtml": `
+          <div class="cwd-video-wrap">
+                        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/hMkSjzSNraM?si=fWQLSu5te0_0rSNu" title="YouTube video player"></iframe>
+                      </div>
+          <div class="cwd-credits">
+                        <p>Vocal (suis): <a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">ASAHINA Misora</a></p>
+                        <p>Vocal (Eve), Mix: <a href="https://www.instagram.com/ikuta_neo?igsh=Y3A3enZlbmEwajho&utm_source=qr" rel="noopener noreferrer" target="_blank">IKUTA Neo</a></p>
+                        <p>Video: HAYASHI Tomohiro</p>
+                      </div>
+          <div class="cwd-description cwd-description--justify">
+                    <p>
+                      I produced the music video for a cover by ASAHINA Misora and IKUTA Neo. At the same location where the music video was filmed, I also photographed artist portraits of the two.
+                    </p>
+                    <p>
+                      <a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">
+                        ASAHINA Misora
+                      </a><br/>
+                      <a href="https://www.instagram.com/ikuta_neo?igsh=Y3A3enZlbmEwajho&utm_source=qr" rel="noopener noreferrer" target="_blank">
+                        IKUTA Neo
+                      </a>
+                    </p>
+                  </div>
+        `
+      },
       {
         "id": "yamamoto-tao-artist-photo",
         "listDate": "2026.6.26",
