@@ -48,6 +48,63 @@ window.WORKS_DATA['music'] = {
         ],
         "works": [
           {
+            "id": "kafune",
+            "listDate": "2026.10.21",
+            "listTitle": "カフネ／朝比奈御空",
+            "listNote": "楽曲提供",
+            "pageTitle": "カフネ／朝比奈御空",
+            "date": "2026.10.21",
+            "title": "カフネ／朝比奈御空",
+            "sub": null,
+            "bodyHtml": `
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/M7oJKQcXiAE" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Lyrics，Vocal，Cast／<a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">朝比奈御空</a></p>
+                <p>Music，Video／照山紅葉</p>
+              </div>
+              <div class="cwd-description cwd-description--justify">
+                <p>
+                  朝比奈御空さんのオリジナル曲《カフネ》の作編曲およびミュージックビデオを担当いたしました。ハイエンドの機材を用いることのない，宅録という環境の中でしかできないアレンジかつ，自分が思う普通のポップミュージックとは異なるやや実験的なサウンド・構成となるように意識しました。優しいまどろみへ誘うような，今までの朝比奈さんの楽曲とはまた違った１曲になっていれば幸いです。
+                </p>
+                <p>
+                  <a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">朝比奈御空</a>
+                </p>
+              </div>
+            `
+          },
+          {
+            "id": "seaglass",
+            "listDate": "2026.8.7",
+            "listTitle": "Seaglass／甘葛すもあ",
+            "listNote": "編曲",
+            "pageTitle": "Seaglass／甘葛すもあ",
+            "date": "2026.8.7",
+            "title": "Seaglass／甘葛すもあ",
+            "sub": null,
+            "bodyHtml": `
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/a5WrsQ9s_vk" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Music，Lyrics／<a href="https://x.com/sumoa_meiwaku" rel="noopener noreferrer" target="_blank">甘葛すもあ</a></p>
+                <p>Arrangement／照山紅葉</p>
+                <p>Video／<a href="https://vivion.jp/" rel="noopener noreferrer" target="_blank">viviON</a></p>
+              </div>
+              <div class="cwd-description cwd-description--justify">
+                <p>
+                  株式会社viviONが運営するVTuber事務所・グループ「ビバップ高校」所属のVTuber，甘葛すもあさんのオリジナル楽曲《Seaglass》の編曲を担当いたしました。夏の風薫る，軽快かつ切ないボサノバ風の１曲となっております。編曲のお仕事は今回が初めてであり，苦戦した部分が多くありますが，自分にとって大切な曲となりました。すもあさんとの不思議で，そして素敵なご縁にも感謝です。
+                </p>
+                <p>
+                  <a href="https://x.com/sumoa_meiwaku" rel="noopener noreferrer" target="_blank">甘葛すもあさん</a><br/>
+                  <a href="https://vhs-city.com/vebophighschool/" rel="noopener noreferrer" target="_blank">ビバップ高校</a><br/>
+                  <a href="https://vivion.jp/" rel="noopener noreferrer" target="_blank">株式会社viviON</a>
+                </p>
+              </div>
+            `
+          },
+          {
             "id": "dokushokai",
             "listDate": "2025.10",
             "listTitle": "映画『読書会のあの人』",
@@ -912,6 +969,63 @@ window.WORKS_DATA['music'] = {
           "At the same time, I have gradually come to see my creative practice beyond the distinction between academic and non-academic work, returning to projects rooted in my own interests and curiosity. Going forward, as HAYASHI Tomohiro, I hope to continue making music as one part of my artistic practice at a sustainable pace. I would also be happy to have opportunities to create work in collaboration with others."
         ],
         "works": [
+          {
+            "id": "kafune",
+            "listDate": "2026.10.21",
+            "listTitle": "Kafune／ASAHINA Misora",
+            "listNote": "client work",
+            "pageTitle": "Kafune／ASAHINA Misora",
+            "date": "2026.10.21",
+            "title": "Kafune／ASAHINA Misora",
+            "sub": null,
+            "bodyHtml": `
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/M7oJKQcXiAE" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Lyrics, Vocal, Cast: <a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">ASAHINA Misora</a></p>
+                <p>Music, Video: TERUYAMA Momiji</p>
+              </div>
+              <div class="cwd-description cwd-description--justify">
+                <p>
+                  I composed and arranged <cite>Kafune</cite>, an original song by ASAHINA Misora, and also made its music video. I aimed for an arrangement that could only come out of a home-recording setup without high-end equipment, and for a somewhat experimental sound and structure that departs from what I think of as ordinary pop music. I hope it has become a song unlike Asahina's earlier ones, one that gently draws you into a soft doze.
+                </p>
+                <p>
+                  <a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">ASAHINA Misora</a>
+                </p>
+              </div>
+            `
+          },
+          {
+            "id": "seaglass",
+            "listDate": "2026.8.7",
+            "listTitle": "Seaglass／AMAZURA Sumoa",
+            "listNote": "arrangement",
+            "pageTitle": "Seaglass／AMAZURA Sumoa",
+            "date": "2026.8.7",
+            "title": "Seaglass／AMAZURA Sumoa",
+            "sub": null,
+            "bodyHtml": `
+              <div class="cwd-video-wrap">
+                <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/a5WrsQ9s_vk" title="YouTube video player"></iframe>
+              </div>
+              <div class="cwd-credits">
+                <p>Music, Lyrics: <a href="https://x.com/sumoa_meiwaku" rel="noopener noreferrer" target="_blank">AMAZURA Sumoa</a></p>
+                <p>Arrangement: TERUYAMA Momiji</p>
+                <p>Video: <a href="https://vivion.jp/" rel="noopener noreferrer" target="_blank">viviON</a></p>
+              </div>
+              <div class="cwd-description cwd-description--justify">
+                <p>
+                  I arranged <cite>Seaglass</cite>, an original song by AMAZURA Sumoa, a VTuber belonging to Vebop High School, a VTuber agency and group run by viviON Inc. It is a light yet bittersweet bossa nova–style song carrying the scent of a summer breeze. This was my first arrangement job, and although I struggled with many parts of it, it has become a song that is very dear to me. I am also grateful for my curious and wonderful connection with Sumoa.
+                </p>
+                <p>
+                  <a href="https://x.com/sumoa_meiwaku" rel="noopener noreferrer" target="_blank">AMAZURA Sumoa</a><br/>
+                  <a href="https://vhs-city.com/vebophighschool/" rel="noopener noreferrer" target="_blank">Vebop High School</a><br/>
+                  <a href="https://vivion.jp/" rel="noopener noreferrer" target="_blank">viviON Inc.</a>
+                </p>
+              </div>
+            `
+          },
           {
             "id": "dokushokai",
             "listDate": "2025.10",

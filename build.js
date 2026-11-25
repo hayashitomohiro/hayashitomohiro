@@ -190,7 +190,15 @@ for (const cat of CATS) {
   }
 }
 
-// 3) CSS・画像をコピー
+// 3) 古いURL（hello.html など）から新しいURLへの転送ページ
+//    昔のリンクやブックマーク、ブラウザに残った古いページからでも迷子にならないように
+for (const rel of pages) {
+  if (/(^|\/)index\.html$/.test(rel)) continue;
+  const to = cleanUrl(path.basename(rel), rel);
+  write(rel, `<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0; url=${to}"><link rel="canonical" href="${to}"><title>Redirecting…</title></head><body><a href="${to}">${to}</a></body></html>\n`);
+}
+
+// 4) CSS・画像をコピー
 fs.copyFileSync(path.join(ROOT, "style.css"), path.join(OUT, "style.css"));
 fs.cpSync(path.join(ROOT, "images"), path.join(OUT, "images"), { recursive: true, filter: (s) => !s.endsWith(".DS_Store") });
 

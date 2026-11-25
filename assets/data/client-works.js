@@ -217,21 +217,6 @@ window.WORKS_DATA["client-works"] = {
         `
       },
       {
-        "id": "intermittent-archive",
-        "listDate": "2025.11.14－21",
-        "listTitle": "山元汰央個展「intermittent」アーカイブ",
-        "listSub": "山元汰央",
-        "pageTitle": "山元汰央個展「intermittent」アーカイブ",
-        "date": "2025.11.14–21",
-        "title": "山元汰央個展「intermittent」アーカイブ",
-        "sub": "山元汰央",
-        "bodyHtml": `
-          <div class="cwd-placeholder">
-                    <p>準備中です。</p>
-                  </div>
-        `
-      },
-      {
         "id": "oohashi-shashinkan",
         "listDate": "2025.11.1－2",
         "listTitle": "芸工祭テント企画「大橋写真館」撮影",
@@ -615,21 +600,6 @@ window.WORKS_DATA["client-works"] = {
         "date": "2025.12.7",
         "title": "Photography for live event \"ozm_sis vol.3\"",
         "sub": "ozm_sis",
-        "bodyHtml": `
-          <div class="cwd-placeholder">
-                    <p>Coming soon.</p>
-                  </div>
-        `
-      },
-      {
-        "id": "intermittent-archive",
-        "listDate": "2025.11.14－21",
-        "listTitle": "Archive for YAMAMOTO Tao's solo exhibition \"intermittent\"",
-        "listSub": "YAMAMOTO Tao",
-        "pageTitle": "Archive for YAMAMOTO Tao's solo exhibition 'intermittent'",
-        "date": "2025.11.14－21",
-        "title": "Archive for YAMAMOTO Tao's solo exhibition \"intermittent\"",
-        "sub": "YAMAMOTO Tao",
         "bodyHtml": `
           <div class="cwd-placeholder">
                     <p>Coming soon.</p>
