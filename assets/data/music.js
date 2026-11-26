@@ -69,7 +69,7 @@ window.WORKS_DATA['music'] = {
                   朝比奈御空さんのオリジナル曲《カフネ》の作編曲およびミュージックビデオを担当いたしました。ハイエンドの機材を用いることのない，宅録という環境の中でしかできないアレンジかつ，自分が思う普通のポップミュージックとは異なるやや実験的なサウンド・構成となるように意識しました。優しいまどろみへ誘うような，今までの朝比奈さんの楽曲とはまた違った１曲になっていれば幸いです。
                 </p>
                 <p>
-                  <a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">朝比奈御空</a>
+                  <a href="https://x.com/Misora_Musik" rel="noopener noreferrer" target="_blank">朝比奈御空さん</a>
                 </p>
               </div>
             `
